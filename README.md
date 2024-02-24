@@ -3,7 +3,7 @@ Welcome to the "Pickup Lines" project. This was my first project, and you can us
 ## How to View
 To experience "Can I Court You?", simply visit https://gioyatar.github.io/pickuplines.github.io/ from any modern web browser.
 ## Languages
-These are the languages that I used to make this:
+These are the languages that I used in order to make this:
 
 * HTML
 * CSS
