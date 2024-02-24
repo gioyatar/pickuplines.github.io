@@ -6,7 +6,5 @@ To experience "Can I Court You?", simply visit https://gioyatar.github.io/pickup
 These are the languages that I used to make this:
 
 * HTML
-
 * CSS
-
 * JS
