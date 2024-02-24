@@ -9,4 +9,4 @@ HTML
 
 CSS
 
-.JS
+JS
