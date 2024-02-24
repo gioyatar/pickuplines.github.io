@@ -5,8 +5,8 @@ To experience "Can I Court You?", simply visit https://gioyatar.github.io/pickup
 ## Languages
 These are the languages that I used to make this:
 
-• HTML
+*HTML
 
-• CSS
+*CSS
 
-• JS
+*JS
